@@ -1,0 +1,19 @@
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+title: Internet Technologies
+description: A simple Jekyll site for the Internet Technologies course.
+
+navigation:
+- title: Home
+  url: /
+- title: About
+  url: /about
+- title: Services
+  url: /services
+- title: Cases
+  url: /cases
+- title: Contact
+  url: /contact
+- title: Gallery
+  url: /gallery
